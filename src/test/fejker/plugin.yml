@@ -1,0 +1,4 @@
+main: test.fejker.Main
+name: FejKerov
+version: 1.0
+api-version: 1.17
